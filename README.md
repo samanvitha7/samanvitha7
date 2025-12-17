@@ -9,15 +9,15 @@
 
 ---
 
-## 👤 Profile Snapshot
+## 👤 PROFILE SNAPSHOT
 
-👤 **Name:** Samanvitha Bolisetty
-🎓 **Role:** Btech in AI,NIT Surat | Tech & Research  
+👤 **Name:** Samanvitha Bolisetty  
+🎓 **Role:** B.Tech in AI, NIT Surat | Tech & Research  
 📍 **Location:** India  
 
 ---
 
-## 🧠 Technical Overview
+## 🧠 TECHNICAL OVERVIEW
 
 🧠 **Primary Stack:**  
 **MERN Stack** — MongoDB • Express • React • Node.js  
@@ -35,22 +35,22 @@
 
 ---
 
-## 🤖 AI, ML & Research Focus
+## 🤖 AI, ML & RESEARCH FOCUS
 
 📌 **Natural Language Processing (NLP):**  
-- Learned NLP concepts as part of a **research paper**
-- Text processing, embeddings, and similarity-based understanding
+- Learned NLP concepts as part of a **research paper**  
+- Text processing, embeddings, and similarity-based understanding  
 
 📌 **Machine Learning:**  
 - Recently started ML  
-- Exploring supervised learning fundamentals and real-world applications
+- Exploring supervised learning fundamentals and real-world applications  
 
 📌 **AI Direction:**  
-- Interested in applying AI to intelligent systems and problem-solving
+- Interested in applying AI to intelligent systems and problem-solving  
 
 ---
 
-## 🌐 Web Development
+## 🌐 WEB DEVELOPMENT
 
 I build **interactive, secure, and user-friendly web applications**.
 
@@ -61,26 +61,29 @@ I build **interactive, secure, and user-friendly web applications**.
 
 ---
 
-📱 App Development (Getting Started)
-I’ve started exploring mobile app development, focusing on understanding core concepts and building simple applications.
-Platform: Android
-Language: Kotlin (basics)
+## 📱 APP DEVELOPMENT (GETTING STARTED)
 
-Current Focus:
-Strengthening fundamentals before moving to complex app architectures
+I’ve started exploring **mobile app development**, focusing on core concepts and simple applications.
 
-Learning app development step by step, with a focus on clean logic and usability.
+- **Platform:** Android  
+- **Language:** Kotlin (basics)  
+- **Current Focus:**  
+  UI components • Activity lifecycle • Logic building  
 
-## 🚀 Current Mission
+> Learning app development step by step with a focus on clean logic and usability.
+
+---
+
+## 🚀 CURRENT MISSION
 
 **Build scalable web applications with AI-assisted intelligence at the core.**
 
 > _“Learning deeply, building consistently, and improving with every commit.”_  
-**[SYSTEM STATUS:  ONLINE]**
+**[SYSTEM STATUS: ✅ ONLINE]**
 
 ---
 
-## 🧠 Skills & Learning Progress
+## 🧠 SKILLS & LEARNING PROGRESS
 
 ### 🚀 Current Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -96,18 +99,10 @@ Learning app development step by step, with a focus on clean logic and usability
 
 ---
 
-## ☕ Coffee Coding Activity Meter (Signature Section)
-
-**Brew Logic**
-- ⬜ Light Roast → Learning & exploration  
-- 🟫 Medium Roast → Consistent development & commits  
-- ⬛ Dark Espresso → High-intensity building streaks  
-
-> Every commit strengthens the brew.
 
 ---
 
-## 📊 Coding Analytics
+## 📊 CODING ANALYTICS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanvitha7&show_icons=true&theme=radical)
 
@@ -115,23 +110,27 @@ Learning app development step by step, with a focus on clean logic and usability
 
 ---
 
-## 🧩 Problem Solving & Practice
+## 🧩 PROBLEM SOLVING & PRACTICE
 
-- **LeetCode:** https://leetcode.com/YOUR_USERNAME  
-- **Codeforces:** https://codeforces.com/profile/YOUR_USERNAME  
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/samanvitha-bolisetty-465a02326) •  
-[LeetCode](https://leetcode.com/Samanvitha7) •  
-[Codeforces](https://codeforces.com/profile/Samanvitha7) •  
-[Email](mailto:bolisettysamanvitha@gmail.com)
+- **LeetCode:** https://leetcode.com/Samanvitha7  
+- **Codeforces:** https://codeforces.com/profile/Samanvitha7  
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=samanvitha7&color=brightgreen)
+## 🌐 CONNECT WITH ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samanvitha-bolisetty-465a02326)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/Samanvitha7)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/Samanvitha7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:bolisettysamanvitha@gmail.com)
+
+---
+
+## 👀 PROFILE VIEWS
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samanvitha7&color=brightgreen" />
+</p>
+
 
 
