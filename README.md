@@ -87,16 +87,30 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 
 ### 🚀 Current Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+
 
 ### 📚 Currently Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 ![Advanced MERN](https://img.shields.io/badge/Advanced%20MERN-3C873A?style=for-the-badge)
-
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge)
 ---
 
 
@@ -116,6 +130,13 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 - **Codeforces:** https://codeforces.com/profile/Samanvitha7  
 
 ---
+BADGES
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samanvitha7&theme=darkhub&no-frame=true" />
+</p>
+
+
+
 
 ## 🌐 CONNECT WITH ME
 
@@ -126,7 +147,7 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 
 ---
 
-## 👀 PROFILE VIEWS
+##  PROFILE REACH
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samanvitha7&color=brightgreen" />
