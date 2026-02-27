@@ -63,7 +63,7 @@ I build **interactive, secure, and user-friendly web applications**.
 
 ## 📱 APP DEVELOPMENT (GETTING STARTED)
 
-I’ve started exploring **mobile app development**, focusing on core concepts and simple applications.
+I've started exploring **mobile app development**, focusing on core concepts and simple applications.
 
 - **Platform:** Android  
 - **Language:** Kotlin (basics)  
@@ -78,7 +78,7 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 
 **Build scalable web applications with AI-assisted intelligence at the core.**
 
-> _“Learning deeply, building consistently, and improving with every commit.”_  
+> _"Learning deeply, building consistently, and improving with every commit."_  
 **[SYSTEM STATUS: ✅ ONLINE]**
 
 ---
@@ -103,27 +103,24 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-
-
 ### 📚 Currently Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 ![Advanced MERN](https://img.shields.io/badge/Advanced%20MERN-3C873A?style=for-the-badge)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge)
----
-
 
 ---
 
 ## 📊 CODING ANALYTICS
-<!-- Streak stats - different service, very reliable -->
-![Streak](https://streak-stats.demolab.com?user=samanvitha7&theme=radical)
 
-<!-- WakaTime-style activity alternatively -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samanvitha7&theme=redical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samanvitha7&theme=radical" />
+</p>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samanvitha7&theme=redical" />
+</p>
 
 ---
 
@@ -136,8 +133,25 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 
 ## 🏆 BADGES
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=samanvitha7&theme=radical&no-frame=true&row=2&column=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samanvitha7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,javascript,git,tailwind&theme=dark" />
+</p>
+
+---
+
+## 🎮 CONTRIBUTION GRAPH
+
+> To activate the Pac-Man animation, create `.github/workflows/pacman.yml` in your profile repo with the workflow from the setup instructions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samanvitha7/samanvitha7/output/pacman-dark.svg" />
+</p>
+
+---
 
 ## 🌐 CONNECT WITH ME
 
@@ -148,11 +162,8 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 
 ---
 
-##  PROFILE REACH
+## PROFILE REACH
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samanvitha7&color=brightgreen" />
 </p>
-
-
-
