@@ -118,9 +118,13 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 
 ## 📊 CODING ANALYTICS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanvitha7&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanvitha7&show_icons=true&theme=radical&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanvitha7&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samanvitha7&theme=radical&no-frame=true" />
+</p>
 
 ---
 
