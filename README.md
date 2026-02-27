@@ -117,9 +117,11 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 ---
 
 ## 📊 CODING ANALYTICS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanvitha7&show_icons=true&theme=radical)
+<!-- Streak stats - different service, very reliable -->
+![Streak](https://streak-stats.demolab.com?user=samanvitha7&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanvitha7&layout=compact&theme=radical)
+<!-- WakaTime-style activity alternatively -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samanvitha7&theme=redical)
 
 
 
