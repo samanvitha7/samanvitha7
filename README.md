@@ -117,12 +117,9 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 ---
 
 ## 📊 CODING ANALYTICS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanvitha7&show_icons=true&theme=radical)
 
-## 📊 CODING ANALYTICS
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samanvitha7&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samanvitha7&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samanvitha7&layout=compact&theme=radical)
 
 
 
@@ -137,7 +134,7 @@ I’ve started exploring **mobile app development**, focusing on core concepts a
 
 ## 🏆 BADGES
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=samanvitha7&theme=radical&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=samanvitha7&theme=radical&no-frame=true&row=2&column=4)
 
 
 ## 🌐 CONNECT WITH ME
