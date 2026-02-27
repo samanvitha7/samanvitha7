@@ -145,12 +145,9 @@ I've started exploring **mobile app development**, focusing on core concepts and
 
 ## 🎮 CONTRIBUTION GRAPH
 
-> To activate the Pac-Man animation, create `.github/workflows/pacman.yml` in your profile repo with the workflow from the setup instructions.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samanvitha7/samanvitha7/output/pacman-dark.svg" />
+  <img src="https://raw.githubusercontent.com/samanvitha7/samanvitha7/output/pacman.svg" />
 </p>
-
 ---
 
 ## 🌐 CONNECT WITH ME
