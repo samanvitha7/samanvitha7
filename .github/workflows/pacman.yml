@@ -1,0 +1,29 @@
+name: Generate Pac-Man
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Pac-Man
+        uses: cicirello/pacman-contribution-graph@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          background-color: "#0d1117"
+          dot-color: "#ffffff"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
