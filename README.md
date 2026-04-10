@@ -115,7 +115,7 @@ I've started exploring **mobile app development**, focusing on core concepts and
 ## 📊 CODING ANALYTICS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samanvitha7&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=samanvitha7&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
